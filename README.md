@@ -7,6 +7,3 @@ hoặc <br>
 https://www.youtube.com/watch?v=itaL_d9P1c4&list=PL1MYBVskDVJU7GL8XfnCjU_aXCNg3ai5J <br>
 
 # Cấu trúc dữ liệu và giải thuật
-
-# An toàn và bảo mật thông tin
-
